@@ -11,7 +11,7 @@ Este análisis busca ayudar al Sr. Juan a tomar una decisión estratégica: iden
 
 ## 🗂️ Estructura del proyecto
 
-- `alura_store_analysis.ipynb`: Notebook principal con todo el análisis.
+- `AluraStoreLatam.ipynb`: Notebook principal con todo el análisis.
 - 4 archivos `.csv` (uno por tienda) importados desde URLs públicas.
 - Librerías utilizadas: `pandas`, `matplotlib`.
 
@@ -23,11 +23,9 @@ Se generaron visualizaciones para comparar:
 
 - **Facturación total** por tienda.
 - **Categorías más vendidas**.
-- **Productos más y menos vendidos**.
 - **Calificación promedio** de los clientes.
-- **Costo de envío promedio**.
 
-> 🧠 **Insight final**: Se recomienda al Sr. Juan vender la tienda con menor desempeño relativo considerando facturación, satisfacción del cliente y volumen de ventas.
+> 🧠 **Insight final**: Se recomienda al Sr. Juan vender la tienda con mejor desempeño relativo considerando facturación, satisfacción del cliente y volumen de ventas y costos de envío.
 
 ---
 
